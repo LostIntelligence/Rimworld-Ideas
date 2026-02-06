@@ -43,7 +43,7 @@ They stayed behind to buy time.
 
 ### **Generation Three - The Phoenix Triarch (You)**
 
-The first entry written after landing on the new rimworld:
+The first entry written after landing on the rimworld:
 
 > **Generation Three - The Phoenix Triarch**
 > *Our city fell. The pirates burned it. The Stewards chose us and remained behind to buy us time.*
