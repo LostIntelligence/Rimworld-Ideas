@@ -598,3 +598,62 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 > *“No Triarch shall command all Mandates, lest three become one.”*
 
 ---
+# **XII. Royal Titles and Imperial Relations**
+
+### **Formal Name: $doctrineImperialRepresentation**
+
+**Doctrine:**
+The city is not a monarchy and shall not be ruled through hereditary nobility. However, relations with Imperial powers may require the holding of formal titles, ranks, or honors recognized by those powers.
+
+To prevent concentration of authority, only **$leaderColony** may accept or hold such titles on behalf of the city.
+
+---
+
+## **Purpose of Royal Titles**
+
+Any title accepted by **$leaderColony** exists solely for:
+
+* Diplomatic representation
+* Treaty negotiation
+* Trade agreements and commercial privileges
+* Formal relations with Imperial governments
+* Representation of the Chain before foreign courts
+
+Such titles are held in trust for the city and not as personal property.
+
+---
+
+## **Limitations**
+
+1. **No Domestic Authority**
+
+   * A royal title grants no authority within the city beyond the mandate already granted to **$leaderColony**.
+
+2. **No Hereditary Claim**
+
+   * Titles shall not pass through bloodline or family succession.
+   * Upon retirement, death, or abdication, any title is considered returned to the city unless formally regranted by the foreign power.
+
+3. **No Exclusive Privilege**
+
+   * Holding a royal title does not elevate **$leaderColony** above the other Triarchs within city governance.
+
+4. **No Foreign Allegiance**
+
+   * The holder's first loyalty remains to the Chain, the Scroll, and the city.
+   * No oath to a foreign ruler may supersede the Oath of Continuance.
+
+---
+
+## **Stewardship Clause**
+
+Should an Imperial title become incompatible with the Founders' Vision, the Triarch may relinquish it without dishonor.
+
+The city values autonomy above prestige.
+
+---
+
+### **Doctrine Phrase**
+
+> *“Titles may serve the city, but the city shall never serve titles.”*
+
