@@ -572,6 +572,7 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 * Diplomacy and inter-faction relations
 * Law, policy, and trade doctrine
 * Long-term city vision
+* Leadership of Diplomatic Forces
 
 ---
 
@@ -581,6 +582,7 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 * Exploration and expeditionary forces
 * Acquisition of relics, artifacts, and external resources
 * Security of trade routes
+* Leadership of Military Forces
 
 ---
 
@@ -590,6 +592,7 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 * Population management and healthcare
 * Hospitality, commerce, and internal stability
 * Labor organization and logistics
+* Leadership of Labour Forces (Builders, Crafters, Farmers, etc)
 
 ---
 
