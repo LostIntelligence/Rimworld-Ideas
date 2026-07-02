@@ -572,7 +572,7 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 * Diplomacy and inter-faction relations
 * Law, policy, and trade doctrine
 * Long-term city vision
-* Leadership of Diplomatic Forces
+* Leadership of the Civic and Diplomatic Team
 
 ---
 
@@ -582,7 +582,7 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 * Exploration and expeditionary forces
 * Acquisition of relics, artifacts, and external resources
 * Security of trade routes
-* Leadership of Military Forces
+* Leadership of the External Operations Team
 
 ---
 
@@ -592,7 +592,7 @@ Each Triarch holds a distinct mandate and shall not dominate the others’ domai
 * Population management and healthcare
 * Hospitality, commerce, and internal stability
 * Labor organization and logistics
-* Leadership of Labour Forces (Builders, Crafters, Farmers, etc)
+* Leadership of the Infrastructure and Production Team
 
 ---
 
@@ -660,3 +660,87 @@ The city values autonomy above prestige.
 
 > *“Titles may serve the city, but the city shall never serve titles.”*
 
+---
+
+# **XIII. The Triarch Teams**
+
+### **Formal Name: $doctrineTriarchTeams**
+
+**Doctrine:**
+
+Each Triarch fulfills their constitutional mandate through the leadership of a permanent **specialist team**. These teams serve as the city's senior administrative and operational bodies, translating doctrine into daily governance.
+
+Each team consists of **four members**:
+
+* The Triarch, who serves as Team Leader.
+* Three appointed specialists chosen for expertise within the team's field.
+
+Specialists may change over time as the city's needs evolve, but the Triarch remains responsible for the team's actions and decisions.
+
+---
+
+## **The External Operations Team**
+
+**Led by:** $leaderAway
+
+The External Operations Team safeguards the city beyond its walls.
+
+Its responsibilities include:
+
+* Commanding the city's external military forces.
+* Defending settlements, caravans, and trade routes.
+* Leading military campaigns and faction wars.
+* Conducting reconnaissance and exploration.
+* Recovering valuable resources and artifacts from the frontier.
+
+Military personnel assigned to this team serve under the strategic direction of $leaderAway.
+
+---
+
+## **The Infrastructure and Production Team**
+
+**Led by:** $leaderBase
+
+The Infrastructure and Production Team ensures the city can sustain itself through careful planning and efficient labor.
+
+Its responsibilities include:
+
+* Planning construction and city expansion.
+* Organizing farming and food production.
+* Coordinating crafting and industrial work.
+* Managing logistics and resource distribution.
+* Maintaining infrastructure essential to daily life.
+
+Builders, farmers, crafters, and logistical specialists operate under this team's direction.
+
+---
+
+## **The Civic and Diplomatic Team**
+
+**Led by:** $leaderColony
+
+The Civic and Diplomatic Team represents the city before foreign powers while cultivating its cultural identity.
+
+Its responsibilities include:
+
+* Conducting diplomacy with other factions.
+* Negotiating trade agreements and treaties.
+* Organizing cultural exchanges and artistic endeavors.
+* Maintaining public relations and hospitality.
+* Providing diplomatic security for officials and visiting dignitaries.
+
+Artists, negotiators, social specialists, and members of the Diplomatic Security Service serve together to strengthen both the city's reputation and its safety abroad.
+
+---
+
+## **Inter-Team Cooperation**
+
+Each team governs its own field while remaining accountable to the Triarch as a whole.
+
+No team may permanently assume another team's responsibilities except during activation of the **Protocol of Continuance** or another constitutionally recognized emergency.
+
+---
+
+### **Doctrine Phrase**
+
+> *"The Triarch gives direction. Their teams give it form. Together they build what no one hand could."*
